@@ -566,9 +566,6 @@ http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CC:FD&stream=19741
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Cbeebies.png" group-title="┃TR┃ COCUK",┃TR┃ CBEEBIES HD
 
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CC:FD&stream=197366&extension=ts&play_token=2ycTRFkjb2
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/DAVINCIKIDS.png" group-title="┃TR┃ COCUK",┃TR┃ DA VINCI KIDS HD
-
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CC:FD&stream=197390&extension=ts&play_token=6hM5pwo8F3
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/trtebailkokul.png" group-title="┃TR┃ COCUK",┃TR┃ TRT EBA TV ILKOKUL HD
 
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CC:FD&stream=197369&extension=ts&play_token=5VQRpCGIsh
