@@ -566,15 +566,6 @@ http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CC:FD&stream=19741
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Cbeebies.png" group-title="┃TR┃ COCUK",┃TR┃ CBEEBIES HD
 
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CC:FD&stream=197366&extension=ts&play_token=2ycTRFkjb2
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/trtebailkokul.png" group-title="┃TR┃ COCUK",┃TR┃ TRT EBA TV ILKOKUL HD
-
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CC:FD&stream=197369&extension=ts&play_token=5VQRpCGIsh
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/trtebatvortaokul.png" group-title="┃TR┃ COCUK",┃TR┃ TRT EBA TV ORTAOKUL HD
-
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CC:FD&stream=197368&extension=ts&play_token=7EfJTwAhHg
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TRT_EBA_TV_Lise.png" group-title="┃TR┃ COCUK",┃TR┃ TRT EBA TV LISE HD
-
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CC:FD&stream=197367&extension=ts&play_token=AUiSYh94k2
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Barbietv.png" group-title="┃TR┃ COCUK",┃TR┃ BARBIE TV HD
 
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CC:FD&stream=197408&extension=ts&play_token=Q2PvZB4Imv
