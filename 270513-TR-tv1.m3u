@@ -548,9 +548,6 @@ http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CC:FD&stream=19741
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TRT_%C3%87ocuk_logo_(2021).svg.png" group-title="┃TR┃ COCUK",┃TR┃ TRT COCUK HD
 
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CC:FD&stream=197417&extension=ts&play_token=uFQW2KSLfI
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Smart_%C3%87ocuk.png" group-title="┃TR┃ COCUK",┃TR┃ COCUKSMART HD
-
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CC:FD&stream=197391&extension=ts&play_token=51HOKokcOm
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/disneyjr.png" group-title="┃TR┃ COCUK",┃TR┃ DISNEY JR HD
 
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CC:FD&stream=197416&extension=ts&play_token=hucq7m6UUI
