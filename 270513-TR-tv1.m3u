@@ -602,12 +602,6 @@ http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CC:FD&stream=19739
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/sirinler.png" group-title="┃TR┃ COCUK",┃TR┃ SIRINLER HD
 
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CC:FD&stream=197394&extension=ts&play_token=jRNabm0rNr
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/cinecocuk.png" group-title="┃TR┃ COCUK",┃TR┃ CINE COCUK HD
-
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CC:FD&stream=197392&extension=ts&play_token=RTvkqAjgEz
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/konusantom.png" group-title="┃TR┃ COCUK",┃TR┃ KONUSAN TOM HD
-
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CC:FD&stream=197386&extension=ts&play_token=2PagXGRdz2
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/doruhd.png" group-title="┃TR┃ COCUK",┃TR┃ DORU HD
 
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CC:FD&stream=197385&extension=ts&play_token=dyri7ChyCE
