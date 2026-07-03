@@ -572,9 +572,6 @@ http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CC:FD&stream=19740
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Peppa-Pig-Logo.png" group-title="┃TR┃ COCUK",┃TR┃ PEPPA PIG HD
 
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CC:FD&stream=197407&extension=ts&play_token=zszU5d2jtq
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/kuzucuk.png" group-title="┃TR┃ COCUK",┃TR┃ KUZUCUK HD
-
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CC:FD&stream=197405&extension=ts&play_token=IrniVfc449
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/kare.png" group-title="┃TR┃ COCUK",┃TR┃ KARE HD
 
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CC:FD&stream=197404&extension=ts&play_token=gqILU1ay78
