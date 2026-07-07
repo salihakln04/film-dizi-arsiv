@@ -608,6 +608,146 @@ http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CC:FD&stream=19738
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Caillou_new_logo.png" group-title="┃TR┃ COCUK",┃TR┃ CAILLOU HD
 
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CC:FD&stream=197382&extension=ts&play_token=OYsJQbket6
+#EXTINF:-1 tvg-name="TR:BABY TV HD" tvg-logo="https://i0.wp.com/resim.yayins.com/cocuk/babytv.png" group-title="TR | Çocuk",TR:BABY TV HD
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/5255973a-d43d-41ac-b65f-cdcc9384eb9a.m3u
+#EXTINF:-1 tvg-name="TR:CARTOON NETWORK HD" tvg-logo="https://i0.wp.com/resim.yayins.com/cocuk/cartoonnetwork.png" group-title="TR | Çocuk",TR:CARTOON NETWORK HD
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/5ec257a8-3b39-4722-8f43-a28c6832ebcf.m3u
+#EXTINF:-1 tvg-name="TR:CARTOONITO HD" tvg-logo="https://i0.wp.com/resim.yayins.com/cocuk/cartoonito.png" group-title="TR | Çocuk",TR:CARTOONITO HD
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/a7a0dbbf-c6ee-4ed1-a4bb-f6d0b165c1dc.m3u
+#EXTINF:-1 tvg-name="TR:COCUK SMART HD" tvg-logo="https://i0.wp.com/resim.yayins.com/cocuk/smarttv.png" group-title="TR | Çocuk",TR:COCUK SMART HD
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/b7eb5a16-1418-4f8f-98e1-ae97670bb3a7.m3u
+#EXTINF:-1 tvg-name="TR:DA VINCI KIDS HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek2/davincikids.png" group-title="TR | Çocuk",TR:DA VINCI KIDS HD
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/07c7d57a-b3c3-43f7-840c-01718f949c07.m3u
+#EXTINF:-1 tvg-name="TR:DISNEY JUNIOR HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/disneyjunior.png" group-title="TR | Çocuk",TR:DISNEY JUNIOR HD
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/498bcaf2-4659-47e3-8504-c0eb2d9f71fe.m3u
+#EXTINF:-1 tvg-name="TR:GAMETOON HD" tvg-logo="https://i0.wp.com/resim.yayins.com/2/gametoon.png" group-title="TR | Çocuk",TR:GAMETOON HD
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/bcd0db02-2e2f-4896-9149-10fd7bc8abec.m3u
+#EXTINF:-1 tvg-name="TR:GLIFE - 64 KARE ULKESI ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/64kareulkesi.png" group-title="TR | Çocuk",TR:GLIFE - 64 KARE ULKESI ʜᴅ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/d3e90557-4bc5-4129-8cbb-17856a87a630.m3u
+#EXTINF:-1 tvg-name="TR:GLIFE - ADISEBABA MASAL ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/adisebabamasal.png" group-title="TR | Çocuk",TR:GLIFE - ADISEBABA MASAL ʜᴅ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/2d5e918b-27d3-41e3-a74e-8400e3d42f86.m3u
+#EXTINF:-1 tvg-name="TR:GLIFE - ADVENTURE TIME ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/adventuretime.png" group-title="TR | Çocuk",TR:GLIFE - ADVENTURE TIME ʜᴅ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/48ea0eb9-ad91-4ba2-a615-421fd54c2b60.m3u
+#EXTINF:-1 tvg-name="TR:GLIFE - ANGRY BIRDS ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/angrybirds.png" group-title="TR | Çocuk",TR:GLIFE - ANGRY BIRDS ʜᴅ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/60719413-da83-42df-ad20-4915b5d32a45.m3u
+#EXTINF:-1 tvg-name="TR:GLIFE - AVATAR ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/avatar.png" group-title="TR | Çocuk",TR:GLIFE - AVATAR ʜᴅ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/108ca324-9b8b-47ea-98d8-e2657787a4f9.m3u
+#EXTINF:-1 tvg-name="TR:GLIFE - BEN10 ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/ben10.png" group-title="TR | Çocuk",TR:GLIFE - BEN10 ʜᴅ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/9c95f585-7c3c-4a9e-8c94-8fc8c9f44817.m3u
+#EXTINF:-1 tvg-name="TR:GLIFE - BLUEY ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/bluey.png" group-title="TR | Çocuk",TR:GLIFE - BLUEY ʜᴅ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/f59e7fb7-9344-4bfe-8532-4ce499b23334.m3u
+#EXTINF:-1 tvg-name="TR:GLIFE - BOOBA ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/booba.png" group-title="TR | Çocuk",TR:GLIFE - BOOBA ʜᴅ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/4f7156f2-1169-4f22-9808-bd66279b4d46.m3u
+#EXTINF:-1 tvg-name="TR:GLIFE - CAILLOU ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/caillou.png" group-title="TR | Çocuk",TR:GLIFE - CAILLOU ʜᴅ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/cc1b7715-b009-4b05-8755-e1dfbc74e27a.m3u
+#EXTINF:-1 tvg-name="TR:GLIFE - CANIM KARDESIM ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/canimkardesim.png" group-title="TR | Çocuk",TR:GLIFE - CANIM KARDESIM ʜᴅ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/8cc540fe-f0ed-4aa7-9fff-efed5905d06b.m3u
+#EXTINF:-1 tvg-name="TR:GLIFE - CHICKY ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/chicky.png" group-title="TR | Çocuk",TR:GLIFE - CHICKY ʜᴅ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/fb1294e7-2da0-4bf1-a432-cd6508736ae3.m3u
+#EXTINF:-1 tvg-name="TR:GLIFE - CILGIN ORMAN ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/cilginorman.png" group-title="TR | Çocuk",TR:GLIFE - CILGIN ORMAN ʜᴅ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/41cf1e9a-7e1d-4f75-b27b-3ff40441a7b4.m3u
+#EXTINF:-1 tvg-name="TR:GLIFE - COCUK ILAHI ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/cocukilahi.png" group-title="TR | Çocuk",TR:GLIFE - COCUK ILAHI ʜᴅ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/16de3264-1ef7-4c54-8a59-4bbdd6637cf4.m3u
+#EXTINF:-1 tvg-name="TR:GLIFE - DORU ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/doru.png" group-title="TR | Çocuk",TR:GLIFE - DORU ʜᴅ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/93869672-f276-4b5f-9b8a-3296379aecd6.m3u
+#EXTINF:-1 tvg-name="TR:GLIFE - EGE ILE GAGA ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/egeilegaga.png" group-title="TR | Çocuk",TR:GLIFE - EGE ILE GAGA ʜᴅ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/df554dfd-b7b1-4367-b537-5617a733e6fb.m3u
+#EXTINF:-1 tvg-name="TR:GLIFE - GABBYNIN HAYAL EVI ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/hayalevi.png" group-title="TR | Çocuk",TR:GLIFE - GABBYNIN HAYAL EVI ʜᴅ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/d74492c2-306b-496a-9204-19c53be489fb.m3u
+#EXTINF:-1 tvg-name="TR:GLIFE - GRIZZY ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/grizy.png" group-title="TR | Çocuk",TR:GLIFE - GRIZZY ʜᴅ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/bf3a2a60-454e-417f-af90-e76afd9083a8.m3u
+#EXTINF:-1 tvg-name="TR:GLIFE - GUMBALL ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/gumball.png" group-title="TR | Çocuk",TR:GLIFE - GUMBALL ʜᴅ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/18df3acf-c8a0-4570-ae77-7fdbce62e100.m3u
+#EXTINF:-1 tvg-name="TR:GLIFE - HEIDI ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/heide.png" group-title="TR | Çocuk",TR:GLIFE - HEIDI ʜᴅ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/303af8c4-49e2-46d4-a47e-80a3050fd8ef.m3u
+#EXTINF:-1 tvg-name="TR:GLIFE - JURASSIC WORLD ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/jurassicpark.png" group-title="TR | Çocuk",TR:GLIFE - JURASSIC WORLD ʜᴅ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/a76c7e43-c168-4404-96ed-abe8923e43cf.m3u
+#EXTINF:-1 tvg-name="TR:GLIFE - KRAL SAKIR ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/kralsakir.png" group-title="TR | Çocuk",TR:GLIFE - KRAL SAKIR ʜᴅ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/119fe817-43c4-4424-8579-b351f5af9297.m3u
+#EXTINF:-1 tvg-name="TR:GLIFE - KUCUK BHEEM ILE BUYUK MACERALAR ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/cocuk/kucuk.png" group-title="TR | Çocuk",TR:GLIFE - KUCUK BHEEM ILE BUYUK MACERALAR ʜᴅ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/55a2d43a-8854-4b28-85be-867720fc1c99.m3u
+#EXTINF:-1 tvg-name="TR:GLIFE - KUCUK KAMYON LEO ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/kucukkamyonleo.png" group-title="TR | Çocuk",TR:GLIFE - KUCUK KAMYON LEO ʜᴅ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/ba8eaab6-0664-4836-bcbc-0fd8420aceb5.m3u
+#EXTINF:-1 tvg-name="TR:GLIFE - KUKULI ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/kukuli.png" group-title="TR | Çocuk",TR:GLIFE - KUKULI ʜᴅ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/39b052e5-edcf-4ea3-8f8b-249d7130d3fa.m3u
+#EXTINF:-1 tvg-name="TR:GLIFE - KUZU SHAUN ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/kuzuha.png" group-title="TR | Çocuk",TR:GLIFE - KUZU SHAUN ʜᴅ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/44a4b74e-1d27-412b-865d-25e4780bf212.m3u
+#EXTINF:-1 tvg-name="TR:GLIFE - LIMON ILE ZEYTIN ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/limonilezeytin.png" group-title="TR | Çocuk",TR:GLIFE - LIMON ILE ZEYTIN ʜᴅ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/4b529d99-d8f0-41e6-bc43-f20c14a013a1.m3u
+#EXTINF:-1 tvg-name="TR:GLIFE - MASA ILE KOCA AYI ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/masailekocaayi.png" group-title="TR | Çocuk",TR:GLIFE - MASA ILE KOCA AYI ʜᴅ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/5776dab7-733c-4856-bd33-acc8f7eed107.m3u
+#EXTINF:-1 tvg-name="TR:GLIFE - MOLANG ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/molang.png" group-title="TR | Çocuk",TR:GLIFE - MOLANG ʜᴅ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/fa4790e9-3c02-4860-8844-af450626fbe7.m3u
+#EXTINF:-1 tvg-name="TR:GLIFE - MUFETTIS GADGET ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/mufettisgasget.png" group-title="TR | Çocuk",TR:GLIFE - MUFETTIS GADGET ʜᴅ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/696e7e3a-7d0a-4110-8485-180a8f2502d4.m3u
+#EXTINF:-1 tvg-name="TR:GLIFE - NASREDDIN HOCA ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/nasreddinhoca.png" group-title="TR | Çocuk",TR:GLIFE - NASREDDIN HOCA ʜᴅ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/dbc60606-0228-40ed-9211-1ea17f68c60e.m3u
+#EXTINF:-1 tvg-name="TR:GLIFE - NILOYA ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/niloya.png" group-title="TR | Çocuk",TR:GLIFE - NILOYA ʜᴅ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/81bda961-2b84-4064-8ebf-9dbd7fc18925.m3u
+#EXTINF:-1 tvg-name="TR:GLIFE - NINJAGO ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/ninjago.png" group-title="TR | Çocuk",TR:GLIFE - NINJAGO ʜᴅ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/626872e1-a823-43c4-a8a5-cb4eed65f902.m3u
+#EXTINF:-1 tvg-name="TR:GLIFE - OSCAR COLLERDE ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/oscarcollarde.png" group-title="TR | Çocuk",TR:GLIFE - OSCAR COLLERDE ʜᴅ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/acb3d355-91f4-4396-8544-7c7c47b7ab30.m3u
+#EXTINF:-1 tvg-name="TR:GLIFE - PATRON BEBEK ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/patronbebek.png" group-title="TR | Çocuk",TR:GLIFE - PATRON BEBEK ʜᴅ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/5b512edf-364f-4b13-bcc0-4fc78bb8e1a9.m3u
+#EXTINF:-1 tvg-name="TR:GLIFE - PAW PATROL ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/pawpetrol.png" group-title="TR | Çocuk",TR:GLIFE - PAW PATROL ʜᴅ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/0869ae28-cdd7-4a0c-9d08-b2f6dc94da55.m3u
+#EXTINF:-1 tvg-name="TR:GLIFE - PEPE ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/pepe.png" group-title="TR | Çocuk",TR:GLIFE - PEPE ʜᴅ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/2b998042-0b15-4140-99ad-a3b6fe893bfe.m3u
+#EXTINF:-1 tvg-name="TR:GLIFE - PEPPA PIG ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/peppapig.png" group-title="TR | Çocuk",TR:GLIFE - PEPPA PIG ʜᴅ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/eadd5eb4-cbba-4ebe-9252-ed8edc03ce88.m3u
+#EXTINF:-1 tvg-name="TR:GLIFE - PIRIL ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/piril.png" group-title="TR | Çocuk",TR:GLIFE - PIRIL ʜᴅ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/129306b5-59c5-4ad2-afdc-f58d5b66e3f7.m3u
+#EXTINF:-1 tvg-name="TR:GLIFE - PISI TV ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/pisitv.png" group-title="TR | Çocuk",TR:GLIFE - PISI TV ʜᴅ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/5701a4ca-5923-4054-8213-d70a08473a97.m3u
+#EXTINF:-1 tvg-name="TR:GLIFE - PJ MASKS ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/pjmaks.png" group-title="TR | Çocuk",TR:GLIFE - PJ MASKS ʜᴅ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/e71c32ce-5e21-4cae-9f98-22d41673a8ed.m3u
+#EXTINF:-1 tvg-name="TR:GLIFE - POKEMON ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/pokemon.png" group-title="TR | Çocuk",TR:GLIFE - POKEMON ʜᴅ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/dde3ca5f-6ce9-4978-9549-9e213412444c.m3u
+#EXTINF:-1 tvg-name="TR:GLIFE - POWER RANGERS ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/powerrangers.png" group-title="TR | Çocuk",TR:GLIFE - POWER RANGERS ʜᴅ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/fed9945d-3afc-42eb-a47e-97d769954bac.m3u
+#EXTINF:-1 tvg-name="TR:GLIFE - RAFADAN TAYFA ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/rafadantayfa.png" group-title="TR | Çocuk",TR:GLIFE - RAFADAN TAYFA ʜᴅ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/453edcc7-5996-403e-b320-6c1e48a0f916.m3u
+#EXTINF:-1 tvg-name="TR:GLIFE - REGULAR SHOW ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/regularshow.png" group-title="TR | Çocuk",TR:GLIFE - REGULAR SHOW ʜᴅ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/b109e087-59f3-44fa-9286-54cd9a51d56b.m3u
+#EXTINF:-1 tvg-name="TR:GLIFE - SEKER HOCA ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/sekerhoca.png" group-title="TR | Çocuk",TR:GLIFE - SEKER HOCA ʜᴅ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/436eb327-349a-4c70-879d-6941fec12ef1.m3u
+#EXTINF:-1 tvg-name="TR:GLIFE - SEVIMLI DOSTLAR ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/sevimlidostlar.png" group-title="TR | Çocuk",TR:GLIFE - SEVIMLI DOSTLAR ʜᴅ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/7464e026-33bc-4699-9c10-2839af618e97.m3u
+#EXTINF:-1 tvg-name="TR:GLIFE - SIHIRLI OKUL OTOBUSU ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/sihirliotobus.png" group-title="TR | Çocuk",TR:GLIFE - SIHIRLI OKUL OTOBUSU ʜᴅ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/90b3ec5f-8234-4485-9f74-61ac3ddee2d1.m3u
+#EXTINF:-1 tvg-name="TR:GLIFE - SIRINLER ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/sirinler.png" group-title="TR | Çocuk",TR:GLIFE - SIRINLER ʜᴅ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/2a2babf1-7a13-487d-99b5-306fbb146801.m3u
+#EXTINF:-1 tvg-name="TR:GLIFE - SONIC ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/sonic.png" group-title="TR | Çocuk",TR:GLIFE - SONIC ʜᴅ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/822de6e8-f285-4e33-a244-b2f2a363c47c.m3u
+#EXTINF:-1 tvg-name="TR:GLIFE - TAVSAN MOMO ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/tavsanmomo.png" group-title="TR | Çocuk",TR:GLIFE - TAVSAN MOMO ʜᴅ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/029f9858-f3fd-4686-8392-1e432982df3a.m3u
+#EXTINF:-1 tvg-name="TR:GLIFE - TAYO ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/tayo.png" group-title="TR | Çocuk",TR:GLIFE - TAYO ʜᴅ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/5c993b1c-f4e2-4c09-8829-54920a4a3ddf.m3u
+#EXTINF:-1 tvg-name="TR:GLIFE - TEEN TITANS ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/cc/teentitans.png" group-title="TR | Çocuk",TR:GLIFE - TEEN TITANS ʜᴅ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/7621eed8-ed55-4ff8-9593-7c857a65e8ed.m3u
+#EXTINF:-1 tvg-name="TR:GLIFE - TRANSFORMERS ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/transfermoers.png" group-title="TR | Çocuk",TR:GLIFE - TRANSFORMERS ʜᴅ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/4f11224d-9c0f-4f1e-94a4-3161f1ffc90a.m3u
+#EXTINF:-1 tvg-name="TR:GLIFE - WAKFU ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/cc/WAKFU.png" group-title="TR | Çocuk",TR:GLIFE - WAKFU ʜᴅ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/fa4a73c3-dd46-425d-9417-fa67ba7d82a1.m3u
+#EXTINF:-1 tvg-name="TR:GLIFE - YILDIZ KIZ ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/yildizkiz.png" group-title="TR | Çocuk",TR:GLIFE - YILDIZ KIZ ʜᴅ
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/339001d5-5609-458b-a568-09da2a915af1.m3u
+#EXTINF:-1 tvg-name="TR:MINIKA COCUK HD" tvg-logo="https://i0.wp.com/resim.yayins.com/cocuk/minikacocuk.png" group-title="TR | Çocuk",TR:MINIKA COCUK HD
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/48485734-0654-4b80-b067-311b435e6b75.m3u
+#EXTINF:-1 tvg-name="TR:MINIKA GO HD" tvg-logo="https://i0.wp.com/resim.yayins.com/cocuk/gominika.png" group-title="TR | Çocuk",TR:MINIKA GO HD
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/6a0d3998-c4d4-4e44-b65b-bf9ac0ad7adb.m3u
+#EXTINF:-1 tvg-name="TR:MOOBUG KIDS HD" tvg-logo="https://i0.wp.com/resim.yayins.com/cocuk/moonbug-kids.png" group-title="TR | Çocuk",TR:MOOBUG KIDS HD
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/b78f0b86-d399-4b65-8458-1f632d0637b7.m3u
+#EXTINF:-1 tvg-name="TR:NICK JR HD" tvg-logo="https://i0.wp.com/resim.yayins.com/cocuk/nickjr.png" group-title="TR | Çocuk",TR:NICK JR HD
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/5f644113-6998-4ac4-815c-76ac4d455fb4.m3u
+#EXTINF:-1 tvg-name="TR:NICKELODEON HD" tvg-logo="https://i0.wp.com/resim.yayins.com/cocuk/nickelodeon.png" group-title="TR | Çocuk",TR:NICKELODEON HD
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/1dca1aa4-e92c-482b-b2ac-a0d2357017b6.m3u
+#EXTINF:-1 tvg-name="TR:NICKTOONS HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/nicktoons.png" group-title="TR | Çocuk",TR:NICKTOONS HD
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/9b62cbde-03bd-4541-ac56-bdde7e26164f.m3u
+#EXTINF:-1 tvg-name="TR:TRT COCUK DIYANET HD" tvg-logo="https://i0.wp.com/resim.yayins.com/cocuk/trt-cocuk-diyanet.png" group-title="TR | Çocuk",TR:TRT COCUK DIYANET HD
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/ba8cfae9-2c4d-4c18-be31-b91edcd4f756.m3u
+#EXTINF:-1 tvg-name="TR:TRT COCUK HD" tvg-logo="https://i0.wp.com/resim.yayins.com/cocuk/trtcocuk.png" group-title="TR | Çocuk",TR:TRT COCUK HD
+http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/6506d8b2-01f1-44c2-810a-a5e014e4e184.m3u
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/┃TR┃ TiviOne PLATFORM/TiviOne SERIES.png" group-title="┃TR┃ TiviOne PLATFORM",┃TR┃ TiviOne SERIES 1 HD
 
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CC:FD&stream=1471673&extension=ts&play_token=fDOWsHHnSf
