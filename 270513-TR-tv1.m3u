@@ -3369,9 +3369,190 @@ http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CC:FD&stream=21046
 
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CC:FD&stream=210463&extension=ts&play_token=H63cTrLCxx
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/tv5.png" group-title="┃TR┃ DINI",┃TR┃ TV5 HD
-
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CC:FD&stream=210462&extension=ts&oplay_token=KSZIvDyc2v
 
+#EXTINF:-1 tvg-id="" tvg-name="##### DIZILER 4K #####" group-title="TR| DIZILER 4K",##### DIZILER 4K #####
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=375425&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Adı Sevgi 4K" group-title="TR| DIZILER 4K",TR: Adı Sevgi 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=385308&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Aşk Mantık İntikam 4K" group-title="TR| DIZILER 4K",TR: Aşk Mantık İntikam 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=385309&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kalp Yarası 4K" group-title="TR| DIZILER 4K",TR: Kalp Yarası 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=385310&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sadakatsiz 4K" group-title="TR| DIZILER 4K",TR: Sadakatsiz 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=385311&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Ada Masalı 4K" group-title="TR| DIZILER 4K",TR: Ada Masalı 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=384764&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Annemizi Saklarken 4K" group-title="TR| DIZILER 4K",TR: Annemizi Saklarken 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=384765&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Destiny 4K" group-title="TR| DIZILER 4K",TR: Destiny 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=384766&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Elbet Bir Gün 4K" group-title="TR| DIZILER 4K",TR: Elbet Bir Gün 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=384767&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Gülümse Kaderine 4K" group-title="TR| DIZILER 4K",TR: Gülümse Kaderine 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=384768&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Iffet 4K" group-title="TR| DIZILER 4K",TR: Iffet 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=384769&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanunsuz Topraklar 4K" group-title="TR| DIZILER 4K",TR: Kanunsuz Topraklar 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=384770&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Son Nefesime Kadar 4K" group-title="TR| DIZILER 4K",TR: Son Nefesime Kadar 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=384771&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kırmızı Oda 4K" group-title="TR| DIZILER 4K",TR: Kırmızı Oda 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=384772&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Elimi Bırakma 4K" group-title="TR| DIZILER 4K",TR: Elimi Bırakma 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=380137&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Teşkilat 4K" group-title="TR| DIZILER 4K",TR: Teşkilat 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=380136&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Evil Sezon 1 4K" group-title="TR| DIZILER 4K",TR: Evil Sezon 1 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=379325&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Evil Sezon 2 4K" group-title="TR| DIZILER 4K",TR: Evil Sezon 2 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=379324&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Masum 4K" group-title="TR| DIZILER 4K",TR: Masum 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=379323&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Spy City 4K" group-title="TR| DIZILER 4K",TR: Spy City 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=379322&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: The Man Who Fell to Earth 4K" group-title="TR| DIZILER 4K",TR: The Man Who Fell to Earth 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=379321&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Üç Kuruş 4K" group-title="TR| DIZILER 4K",TR: Üç Kuruş 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=379320&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kuruluş Osman Sezon 1 4K" group-title="TR| DIZILER 4K",TR: Kuruluş Osman Sezon 1 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=378995&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kuruluş Osman Sezon 2 4K" group-title="TR| DIZILER 4K",TR: Kuruluş Osman Sezon 2 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=378996&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kuruluş Osman Sezon 3 4K" group-title="TR| DIZILER 4K",TR: Kuruluş Osman Sezon 3 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=378997&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Aziz 4K" group-title="TR| DIZILER 4K",TR: Aziz 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=378998&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Destan 4K" group-title="TR| DIZILER 4K",TR: Destan 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=378999&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sevmek Zamanı 4K" group-title="TR| DIZILER 4K",TR: Sevmek Zamanı 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=379000&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Var Bunlar 4K" group-title="TR| DIZILER 4K",TR: Var Bunlar 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=379001&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Yalnız Kurt 4K" group-title="TR| DIZILER 4K",TR: Yalnız Kurt 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=379002&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: İçimizdeki Ateş 4K" group-title="TR| DIZILER 4K",TR: İçimizdeki Ateş 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=379003&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 50 m² 4K" group-title="TR| DIZILER 4K",TR: 50 m² 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=375426&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: All of Us Are Dead 4K" group-title="TR| DIZILER 4K",TR: All of Us Are Dead 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=375427&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Altered Carbon Sezon 1 4K" group-title="TR| DIZILER 4K",TR: Altered Carbon Sezon 1 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=375428&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Altered Carbon Sezon 2 4K" group-title="TR| DIZILER 4K",TR: Altered Carbon Sezon 2 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=375429&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Aşk 101 Sezon 1 4K" group-title="TR| DIZILER 4K",TR: Aşk 101 Sezon 1 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=375430&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Aşk 101 Sezon 2 4K" group-title="TR| DIZILER 4K",TR: Aşk 101 Sezon 2 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=375431&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Dark Sezon 1 4K" group-title="TR| DIZILER 4K",TR: Dark Sezon 1 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=375432&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Dark Sezon 2 4K" group-title="TR| DIZILER 4K",TR: Dark Sezon 2 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=375433&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Dark Sezon 3 4K" group-title="TR| DIZILER 4K",TR: Dark Sezon 3 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=375434&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: El Chapo Sezon 1 4K" group-title="TR| DIZILER 4K",TR: El Chapo Sezon 1 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=375435&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: El Chapo Sezon 2 4K" group-title="TR| DIZILER 4K",TR: El Chapo Sezon 2 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=375436&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: El Chapo Sezon 3 4K" group-title="TR| DIZILER 4K",TR: El Chapo Sezon 3 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=375437&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Erşan Kuneri 4K" group-title="TR| DIZILER 4K",TR: Erşan Kuneri 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=375438&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Eski Polis Komiserinin Sırrı 4K" group-title="TR| DIZILER 4K",TR: Eski Polis Komiserinin Sırrı 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=375439&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: First Kill 4K" group-title="TR| DIZILER 4K",TR: First Kill 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=375440&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Into The Night Sezon 1 4K" group-title="TR| DIZILER 4K",TR: Into The Night Sezon 1 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=375441&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Into The Night Sezon 2 4K" group-title="TR| DIZILER 4K",TR: Into The Night Sezon 2 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=375442&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kuş Uçuşu 4K" group-title="TR| DIZILER 4K",TR: Kuş Uçuşu 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=375443&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: La Casa de Papel Sezon 1 4K" group-title="TR| DIZILER 4K",TR: La Casa de Papel Sezon 1 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=375444&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: La Casa de Papel Sezon 2 4K" group-title="TR| DIZILER 4K",TR: La Casa de Papel Sezon 2 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=375445&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: La Casa de Papel Sezon 3 4K" group-title="TR| DIZILER 4K",TR: La Casa de Papel Sezon 3 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=375446&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: La Casa de Papel Sezon 4 4K" group-title="TR| DIZILER 4K",TR: La Casa de Papel Sezon 4 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=375447&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: La Casa de Papel Sezon 5 4K" group-title="TR| DIZILER 4K",TR: La Casa de Papel Sezon 5 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=375448&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Lupin Sezon 1 4K" group-title="TR| DIZILER 4K",TR: Lupin Sezon 1 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=375449&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Lupin Sezon 2 4K" group-title="TR| DIZILER 4K",TR: Lupin Sezon 2 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=375450&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Man Vs Bee 4K" group-title="TR| DIZILER 4K",TR: Man Vs Bee 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=375451&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: My Name 4K" group-title="TR| DIZILER 4K",TR: My Name 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=375452&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Narcos  Sezon 1 4K" group-title="TR| DIZILER 4K",TR: Narcos  Sezon 1 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=375453&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Narcos Sezon 2 4K" group-title="TR| DIZILER 4K",TR: Narcos Sezon 2 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=375454&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Narcos Sezon 3 4K" group-title="TR| DIZILER 4K",TR: Narcos Sezon 3 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=375455&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Pera Palasta Gece Yarısı 4K" group-title="TR| DIZILER 4K",TR: Pera Palasta Gece Yarısı 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=375456&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Queen Of The South  Sezon 1 4K" group-title="TR| DIZILER 4K",TR: Queen Of The South  Sezon 1 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=375457&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Queen Of The South Sezon 2 4K" group-title="TR| DIZILER 4K",TR: Queen Of The South Sezon 2 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=375458&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Queen Of The South Sezon 3 4K" group-title="TR| DIZILER 4K",TR: Queen Of The South Sezon 3 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=375459&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Queen Of The South Sezon 4 4K" group-title="TR| DIZILER 4K",TR: Queen Of The South Sezon 4 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=375460&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Queen Of The South Sezon 5 4K" group-title="TR| DIZILER 4K",TR: Queen Of The South Sezon 5 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=375461&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Space Force  Sezon 1 4K" group-title="TR| DIZILER 4K",TR: Space Force  Sezon 1 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=375462&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Space Force Sezon 2 4K" group-title="TR| DIZILER 4K",TR: Space Force Sezon 2 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=375463&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Squid Game 4K" group-title="TR| DIZILER 4K",TR: Squid Game 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=375464&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Suits Sezon 1 4K" group-title="TR| DIZILER 4K",TR: Suits Sezon 1 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=375465&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Suits Sezon 2 4K" group-title="TR| DIZILER 4K",TR: Suits Sezon 2 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=375466&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Suits Sezon 3 4K" group-title="TR| DIZILER 4K",TR: Suits Sezon 3 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=375467&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Suits Sezon 4 4K" group-title="TR| DIZILER 4K",TR: Suits Sezon 4 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=375468&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Suits Sezon 5 4K" group-title="TR| DIZILER 4K",TR: Suits Sezon 5 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=375469&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Suits Sezon 6 4K" group-title="TR| DIZILER 4K",TR: Suits Sezon 6 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=375470&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Suits Sezon 7 4K" group-title="TR| DIZILER 4K",TR: Suits Sezon 7 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=375471&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Suits Sezon 8 4K" group-title="TR| DIZILER 4K",TR: Suits Sezon 8 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=375472&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Suits Sezon 9 4K" group-title="TR| DIZILER 4K",TR: Suits Sezon 9 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=375473&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Titans Sezon 1 4K" group-title="TR| DIZILER 4K",TR: Titans Sezon 1 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=375474&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Titans Sezon 2 4K" group-title="TR| DIZILER 4K",TR: Titans Sezon 2 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=375475&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Titans Sezon 3 4K" group-title="TR| DIZILER 4K",TR: Titans Sezon 3 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=375476&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Top Boy Sezon 1 4K" group-title="TR| DIZILER 4K",TR: Top Boy Sezon 1 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=375477&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Top Boy Sezon 2 4K" group-title="TR| DIZILER 4K",TR: Top Boy Sezon 2 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=375478&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: V Wars 4K" group-title="TR| DIZILER 4K",TR: V Wars 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=375479&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Vikings Valhalla 4K" group-title="TR| DIZILER 4K",TR: Vikings Valhalla 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=375480&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Yakamoz S-245 4K" group-title="TR| DIZILER 4K",TR: Yakamoz S-245 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=375481&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Doğduğun Ev Kaderindir 4K" group-title="TR| DIZILER 4K",TR: Doğduğun Ev Kaderindir 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=299827&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kağıt Ev 4K" group-title="TR| DIZILER 4K",TR: Kağıt Ev 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=299826&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kahraman Babam 4K" group-title="TR| DIZILER 4K",TR: Kahraman Babam 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=299825&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Öğretmen 4K" group-title="TR| DIZILER 4K",TR: Öğretmen 4K
+http://pro.most8knew.com:80/play/live.php?mac=00%3A1B%3A79%3A18%3A6A%3ACD&stream=299824&extension=ts
 #EXTM3U
 #EXTINF:-1  tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/27070.jpg" group-title="Yüzüklerin Efendisi ",Yüzüklerin Efendisi 1 Yüzük Kardeşliği 2001
 https://vidmody.com/vs/tt0120737
