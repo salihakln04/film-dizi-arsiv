@@ -608,6 +608,8 @@ http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CC:FD&stream=19738
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Caillou_new_logo.png" group-title="┃TR┃ COCUK",┃TR┃ CAILLOU HD
 
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CC:FD&stream=197382&extension=ts&play_token=OYsJQbket6
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/wlXLP2ztyZr.jpg" group-title="|TR| COCUK",|TR| F KANAL COCUK HD
+http://162.212.179.32/akamaissh101/ssh101/maxitv/playlist.m3u8
 #EXTINF:-1 tvg-name="TR:BABY TV HD" tvg-logo="https://i0.wp.com/resim.yayins.com/cocuk/babytv.png" group-title="TR | Çocuk",TR:BABY TV HD
 http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/5255973a-d43d-41ac-b65f-cdcc9384eb9a.m3u
 #EXTINF:-1 tvg-name="TR:CARTOON NETWORK HD" tvg-logo="https://i0.wp.com/resim.yayins.com/cocuk/cartoonnetwork.png" group-title="TR | Çocuk",TR:CARTOON NETWORK HD
